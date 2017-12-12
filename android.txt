@@ -1,0 +1,3 @@
+title=RPI_configurator
+author=Daniel Kuty
+orientation=all
